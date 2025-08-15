@@ -13,11 +13,9 @@ const About = () => {
         {/* Grid 1 */}
         <div className="flex items-end grid-black-color grid-1">
           <img
-            src="src/assets/profile.png"
+            src="/assets/profile.png"
             className="absolute object-cover w-32 scale-300 right-0.5 bottom-0.5 top-1  md:scale-600 
             md:top-36 md:right-1/4
-
-            
                "
           />
           {/* absolute scale-[1.75] -right-[5rem] -top-[1rem] md:scale-[3] md:left-50 md:inset-y-10 lg:scale-[2.5] // scale-[1.2] md:-top-1   md: */}
